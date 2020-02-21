@@ -1,0 +1,101 @@
+Movie_id,Name,Tags,No of videos,rating,Viewers,Price,Difficulty
+1,Introduction to Programming,"programming, C",191,4,2010,0,Easy
+2,Introduction to React.js,"web, reactjs, javascript,frontend",123,5,2291,0,Medium
+3,Web Development,"web,webdev,html,css",192,5,1414,2,Easy
+4,Introduction to Machine Learning,"python, ML, machine learning, algorithms,mathematics",185,5,1375,1,Hard
+5,Intro to android app development,"Android, android studio, kotlin, flutter",169,3,2041,2,Easy
+6,Introduction to Java programming,"Java, J2EE, J2SE",103,4,1298,5,Medium
+7,Introduction to Python Programming,"python,programming",171,5,1998,2,Medium
+8,Intro to C# development,"C#,programming, .net",79,5,1156,0,Medium
+9,Intro to Game development,"C#,game,unity",191,3,1084,3,Hard
+10,Intro to web development using Angular.js,"web development, javascript, js, angular,frontend",151,5,1672,2,Medium
+11,Intro to Game development using Unity engine,"C#,C++, game development, unity",114,3,1919,2,Medium
+12,Modern React with Redux,"reactjs,redux,web,frontend,javascript",141,4,1967,0,Medium
+13,Node.js Developer course,"nodejs,backend,web,server",100,5,1981,3,Medium
+14,Introduction to Query Languages,"SQL,query languages",64,3,1265,5,Medium
+15,Data Analysis using python,"data,analysis,pandas, python",154,3,2036,5,Easy
+16,Data Visualization using python,"data,visualization,pandas, python",66,3,2057,5,Easy
+17,Introduction to javascript,"javascript, js, scripting",115,4,2280,4,Easy
+18,Introduction to swift programming,"swift, ios, app",154,3,2143,5,Easy
+19,What is kubernetes?,"docker, kubernetes, container",180,5,1543,5,Hard
+20,Intro to vue.js,"vuejs, javascript,frontend,web-app,webdevelopement",199,4,1367,1,Medium
+21,Intro to R programming ,"R, statistics, programming",93,3,1285,2,Medium
+22,Automate boring stuff with selenium,"selenium, automation",161,3,2266,3,Easy
+23,Web Development with python using Django,"django, web development, web, python",58,5,1436,4,Medium
+24,Spring and Hibernate for beginners,"spring, java, J2EE, hibernate",187,5,1936,1,Medium
+25,Intro to c programming,"C, programming",146,3,1610,5,Easy
+26,Intro to C++ ,"C++, Object oriented, programming",134,4,1016,2,Easy
+27,Introduction to Object Oriented Programming,"Object oriented, C++, Java, OOPS",83,5,2128,2,Easy
+28,Advanced CSS and SASS,"CSS, designing, web designing",53,4,1747,2,Easy
+29,PHP for beginners,"PHP, backend",145,3,1239,2,Easy
+30,The complete ASP.NET course,".net, programming, c#",140,3,1378,1,Medium
+31,Guide to Tensorflow for deep learning,"Tensorflow, deep learning, machine learning",107,5,1180,2,Medium
+32,What is Deeplearning,"deep learning, machine learning",94,3,2166,3,Medium
+33,Introduction to Artificial Intelligence,"AI, machine learning, deep learning",100,3,1872,4,Medium
+34,Intro to pytorch for deep learning,"Pytorch, deep learning, machine learning, AI",144,5,1139,3,Medium
+35,Using Pretrained models for deep learning,"deep learning, machine learning, tensorflow",173,5,1590,4,Medium
+36,Unity 3D,"unity3D, game development, C#",125,4,2125,1,Medium
+37,The complete Ruby on Rails course,"Ruby on rails, web dev, rails, ruby",156,3,1123,1,Medium
+38,Learn Flutter and Dart to build android Apps,"Flutter, dart, android, app development",111,5,1754,3,Medium
+39,Creating your website using Wordpress,"webpage, frontend, wordpress",132,4,1312,5,Medium
+40,Scrum Certification tester,scrum,85,4,1717,1,Easy
+41,node with react,"nodejs, web development, javascript, js, reactjs ",109,4,1479,3,Medium
+42,Ultimate AWS certified Developer,"AWS, cloud,amazon, developer",84,5,1080,3,Easy
+43,Hands on course to Apache airflow,"apache, airflow",63,3,1908,5,Medium
+44,Introduction to Vanilla.js,"javascript, js, scripting,vanilla",150,3,2047,4,Easy
+45,Using Tableau for data visualization,"data visualization, python, data",178,4,1074,5,Easy
+46,Computer vision using Python,"computer vision,python, deep learning, python, machine learning",111,3,1392,4,Hard
+47,Introduction to opencv,"computer vision,python, deep learning, python, machine learning",186,5,1096,3,Hard
+48,Introduction to Natural Language processing,"NLP, machine learning, deep learning, nltk",136,3,1551,5,Hard
+49,Web development in python using Flask,"flask, web development, python, django",101,5,1966,3,Medium
+50,Intro to PostgreSQL,"SQL,query languages, postgresql",136,3,1601,4,Medium
+51,Intro to Golang,"Go, google, golang",88,5,1043,5,Easy
+52,Deep learning with Tensorflow and keras,"Tensorflow, deep learning, machine learning,keras",183,4,1175,5,Medium
+53,Penetration testing,"security, linux, penetration",91,4,1323,4,Medium
+54,Intro to Linux shell,"linux, shell",69,4,1512,5,Easy
+55,Data preprocessing using python,"preprocessing, python, pandas",73,4,1668,1,Easy
+56,Introduction to Cloud computing,"cloud, AWS, google, salesforce",63,5,1733,5,Easy
+57,Introduction to GraphQL,"GraphQL, query language",98,3,1285,5,Medium
+58,Intro to datastructures,"data structure, algorithms, C,python",101,5,1618,4,Medium
+59,Intro to datastructures and algorithms,"data structure, algorithms, C,python",74,5,1649,5,Medium
+60,Implementing DSA in python,"data structure, algorithms,python",144,3,2023,4,Medium
+61,Implementing DSA in C and C++,"data structure, algorithms, C, C++",191,3,1436,3,Medium
+62,Introduction to Typescript,"Typescript, programming",151,5,1105,5,Easy
+63,Introduction to MongoDB,"mongoDB, programming, SQL",170,3,1913,1,Medium
+64,Introduction to Ethical hacking,"hacking, linux, penetration testing",63,5,1431,1,Easy
+65,Using REST API in python,"API, python, django, flask",116,5,1100,5,Hard
+66,Intro to MERN stack,"mongoDB, expressjs,jsm javascript,React, frontend, nodejs",196,4,1862,1,Hard
+67,Intro to MEAN Stack,"mongoDB, expressjs,jsm javascript,Angular, frontend, nodejs",118,5,1459,3,Hard
+68,Python3 Bootcamp,Python,130,3,2147,4,Medium
+69,Progressive web apps,"webapp, django, flask, javascript",183,4,1404,4,Medium
+70,Web programming with golang,"web development, golang, google",66,3,1638,3,Medium
+71,AWS Serverless API,"AWS, Amazon, serverless, lambda",65,5,1962,2,Easy
+72,Introduction to AWS deep racer,"AWS, Deep racer, selfdriving car,cloud",93,4,1481,5,Medium
+73,Introduction to AWS Services,"AWS, amazon, cloud",69,5,1820,4,Medium
+74,Introduction to Google Cloud Platform,"Google, cloud, introduction, programming",102,3,1891,1,Medium
+75,Training your own Machine learning model on cloud,"machine learning, deep learning, cloud",190,3,2086,4,Medium
+76,Creating your own google assistant action ,"google, assisstent, action",160,3,2249,2,Medium
+77,Developing your own alexa skill,"action, alexa,skill",81,4,1110,2,Medium
+78,Introduction to AWS Lambda,"AWS, amazon, cloud, serverless, lambda",51,4,1384,5,Medium
+79,Introduction to Visualforce,"salesforce, cloud, visualforce",94,4,1778,4,Medium
+80,What is salesforce?,"salesforce, cloud, CRM",89,3,2015,1,Medium
+81,Introduction to IOT,"IOT, C, Python, arduino,raspberry pi",98,3,1079,4,Easy
+82,Deep learning advanced topics,"deep learning, machine learning, tensorflow, GAN, RNN",167,3,1495,1,Hard
+83,Version control with Git and github,"git, github, version control system",113,3,1642,3,Easy
+84,Python RNN and GANS,"RNN, GAN, deep learning, machine learning",155,5,2077,5,Hard
+85,Deep reinforcement Learning using python,"reinfocement learning, AI, python",160,5,1910,3,Hard
+86,What is reinforcement learning,"reinforcement learning, python, AI",132,4,1786,5,Hard
+87,Introduction to blockchain,"blockchain, security",175,5,1857,1,Hard
+88,Creating your own cryptocurrency using blockchain,"cryptocurrency,blockchain, hashcode",154,5,2011,4,Hard
+89,Introduction to etherium ,"cryptocurrency,blockchain, hashcode, security",136,4,2098,2,Hard
+90,Creating games using blockchain,"games, blockchain",200,5,1078,1,Hard
+91,Unit testing,"testing, unit testing",129,4,1599,1,Easy
+92,Creating your own chatbot in python,"chatbot, NLP, python, assistant",167,3,2128,4,Medium
+93,Introduction to self driving car course,"reinforcement learning, python, AI",182,4,1419,2,Medium
+94,Lavarel in php,"PHP, lavarel, backend",89,3,1892,2,Medium
+95,What are design patterns,design patterns,178,5,1487,1,Medium
+96,Learn to code in java,"Java, J2EE, J2SE",114,4,1716,5,Medium
+97,Introduction to firebase,"firebase, website, deploying",51,4,2113,2,Easy
+98,Microsoft SQL A-Z,"SQL,Query languages",76,4,1820,4,Medium
+99,Unsupervised learning in python,"machine learning, deep learning, python",104,5,1642,2,Hard
+100,Introduction to Bash shell,"bash, linux, shell",132,3,1693,0,Medium
